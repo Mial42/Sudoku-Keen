@@ -1,0 +1,52 @@
+ABBCCDAEEFFDGGHHIJKLHMIJKLNMOPQQNOOP
+A 8 +
+B 5 +
+C 1 -
+D 1 -
+E 2 /
+F 6 x
+G 3 /
+H 20 x
+I 1 -
+J 2 -
+K 2 /
+L 8 +
+M 3 -
+N 2 /
+O 10 x
+P 6 +
+Q 24 x
+AABCCDAEBFFDGEBHIIGJJHKLGMNNKLMMOOPP
+A 9 +
+B 30 x
+C 6 x
+D 3 -
+E 2 -
+F 9 +
+G 15 x
+H 2 /
+I 2 /
+J 1 -
+K 2 -
+L 8 +
+M 24 x
+N 7 +
+O 1 -
+P 2 /
+AABBCCDDECFFEGGF
+A 2 /
+B 1 -
+C 6 x
+D 8 x
+E 1 -
+F 5 +
+G 2 /
+AABBCCDDEFFGEHHG
+A 1 -
+B 4 x
+C 2 /
+D 7 /
+E 4 x
+F 2 -
+G 5 +
+H 2 /
